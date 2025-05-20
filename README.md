@@ -103,7 +103,15 @@ print(y_prednew)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+
+# READ AND DISPLAY
+![image](https://github.com/user-attachments/assets/66ea8766-1e33-42ce-8087-26624a43cf0e)
+
+# CATEGORIZING COLUMNS
+![image](https://github.com/user-attachments/assets/cffd57b9-adcc-4314-88b8-d35da5b25156)
+
+# LABELING COLUMNS AND DISPLAYING DATASET
+![image](https://github.com/user-attachments/assets/72f7c439-a055-4900-930d-eaa01b45c6bf)
 
 
 ## Result:
